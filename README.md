@@ -19,11 +19,3 @@ Instructor: Miss Hameeza Ahmed
 - Input validation and checking of the data file
 - All records saved in car_rental.txt
 
-## Build and run (Windows, GCC / MinGW-w64)
-gcc -std=c99 -Wall -Wextra main.c -o car_rental.exe
-.\car_rental.exe
-
-## Files
-- main.c: complete source code
-- sample_car_rental.txt: example data file
-- report/: project report
